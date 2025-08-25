@@ -13,7 +13,7 @@ This project explores forecasting methods for major cryptocurrencies (Bitcoin, E
 - Exogenous S&P 500 returns reduced forecast error
 - Confidence intervals captured realized outcomes within 95% bounds
 
-![Forecast Example](figures/btc_forecast.png)
+![Forecast Example](figures/SARIMAX_Forecast_Bitcoin.png)
 
 ## Files
 - `notebook.ipynb` – Python implementation
